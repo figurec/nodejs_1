@@ -1,7 +1,7 @@
 {
   "scripts": {
     "start": "node index.js",
-  }
+  },
   "name": "hello-heroku",
   "version": "1.0.0",
   "description": "",
